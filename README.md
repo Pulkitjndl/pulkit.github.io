@@ -1,6 +1,6 @@
 # Personal Portfolio ⚡️
 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+> A clean, beautiful, responsive portfolio
 
 > https://pulkitjndl.github.io/
 
